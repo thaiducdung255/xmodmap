@@ -57,6 +57,7 @@ keycode  62 = Shift_R NoSymbol Shift_R
 keycode  64 = Alt_L Meta_L Alt_L Meta_L
 keycode  65 = space space space space
 keycode  66 = Escape Escape 1 exclam
+keycode  92 = Super_L Super_L NoSymbol NoSymbol
 keycode 105 = Control_R NoSymbol Control_R
 keycode 108 = Mode_switch NoSymbol Mode_switch
 keycode 111 = Up NoSymbol Up
